@@ -1,8 +1,9 @@
 {
-  "name": "geojson-rbush",
-  "version": "3.2.0",
-  "description": "GeoJSON implementation of RBush",
+  "name": "@wodzinski.org/geojson-rbush",
+  "version": "3.2.1",
+  "description": "Fork from GeoJSON implementation of RBush",
   "main": "index",
+  "scope": "@wodzinski.org",
   "types": "index.d.ts",
   "files": [
     "index.js",
@@ -23,6 +24,7 @@
   ],
   "author": "Denis Carriere <@DenisCarriere>",
   "contributors": [
+    "Piotr Wodziński <@elter71>",
     "Vladimir Agafonkin <@mourner>",
     "Denis Carriere <@DenisCarriere>",
     "Jordan Rousseau <@jvrousseau>"
@@ -46,5 +48,16 @@
     "@turf/meta": "6.x",
     "@types/geojson": "7946.0.8",
     "rbush": "^3.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wodzinski/geojson-rbush.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wodzinski/geojson-rbush/issues"
+  },
+  "homepage": "https://github.com/wodzinski/geojson-rbush#readme"
 }
