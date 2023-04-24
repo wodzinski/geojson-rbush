@@ -1,8 +1,8 @@
 # GeoJSON RBush
 
-[![Build Status](https://travis-ci.org/DenisCarriere/geojson-rbush.svg?branch=master)](https://travis-ci.org/DenisCarriere/geojson-rbush)
-[![npm version](https://badge.fury.io/js/geojson-rbush.svg)](https://badge.fury.io/js/geojson-rbush)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/DenisCarriere/geojson-rbush/master/LICENSE)
+![example branch parameter](https://github.com/wodzinski/geojson-rbush/actions/workflows/node.js.yml/badge.svg?branch=master)
+[![npm version](https://badge.fury.io/js/@wodzinski.org%2Fgeojson-rbush.svg)](https://badge.fury.io/js/@wodzinski.org%2Fgeojson-rbush)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wodzinski/geojson-rbush/master/LICENSE)
 
 GeoJSON implementation of [RBush](https://github.com/mourner/rbush) — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles.
 
