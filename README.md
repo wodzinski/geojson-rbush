@@ -1,6 +1,7 @@
 # GeoJSON RBush
 
-![example branch parameter](https://github.com/wodzinski/geojson-rbush/actions/workflows/node.js.yml/badge.svg?branch=master)
+![Test](https://github.com/wodzinski/geojson-rbush/actions/workflows/node.js.yml/badge.svg?branch=master)
+![Publish](https://github.com/wodzinski/geojson-rbush/actions/workflows/npm-publish.yml/badge.svg)
 [![npm version](https://badge.fury.io/js/@wodzinski.org%2Fgeojson-rbush.svg)](https://badge.fury.io/js/@wodzinski.org%2Fgeojson-rbush)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wodzinski/geojson-rbush/master/LICENSE)
 
