@@ -1,6 +1,6 @@
 {
   "name": "@wodzinski.org/geojson-rbush",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "description": "Fork from GeoJSON implementation of RBush",
   "main": "index",
   "scope": "@wodzinski.org",
